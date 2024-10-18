@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://elitefardin.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMZ3E93WMu3MOdOL-eGju_frmt4HjaTOCKLA6JoZL3SCUpHrPizi8kWDFtu81vRISX4ibwvDXY_sxyMsjzodJ9LVH9H3WzP9WHa9bViy6mghG5ksHXshjZWYqTBNqIS6sCyb0Rc0AU11ERLLPuKiwn5iXub48cbiSytFkj6oPFfvxAWLuiRUTF0KUUFyk/s851/ezgif.com-resize.gif)](https://elitefardin.io)
 <h1 align="center">Hi 👋, I'm Fardin Sagor</h1>
 <h3 align="center">Passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
