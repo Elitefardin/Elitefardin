@@ -60,10 +60,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</p>
 
-[![Elitefardin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=elitefardin&&theme=xcode)](https://github.com/elitefardin)
+</p>Elitefardin's GitHub activity graph:
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elitefardin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elitefardin" /></p>
 
